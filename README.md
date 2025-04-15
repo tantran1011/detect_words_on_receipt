@@ -1,0 +1,1 @@
+# detect_words_on_receipt
