@@ -1,7 +1,7 @@
 # 🧴 Detect Words On Receipts
 
-![EasyOCR model](https://github.com/JaidedAI/EasyOCR#supported-languages)  
-![Tesseract model](https://github.com/tesseract-ocr/tesseract)  
+![EasyOCR](https://github.com/JaidedAI/EasyOCR#supported-languages)  
+![Tesseract](https://github.com/tesseract-ocr/tesseract)  
 
 ## 📌 Project Overview
 
